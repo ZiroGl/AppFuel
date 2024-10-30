@@ -1,6 +1,6 @@
 ## 📱 Descrição
 
-O *AppFuel* permite ao usuário realizar o calculo do quanto de combustivel será necessário para o seu percurso e o valor a ser ivestido para abastecer, ultilizando botões interativos. 
+O *AppFuel* permite ao usuário realizar o calculo do quanto de combustivel será necessário para o seu percurso e o valor a ser investido para abastecer, ultilizando botões interativos. 
 
 ## 🔧 Funcionalidades
 
@@ -78,12 +78,10 @@ Na tela principal, o usuário insere os seguintes dados nome do veiculo, número
 
 # 📄 Licença
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LaurenAzevedo/exemplo-readme/blob/main/LICENSE)   *criar
+[![NPM](https://github.com/ZiroGl/AppFuel/blob/main/LICENSE)  
 
 ## 👨‍💻 Desenvolvedor 
 
-*Lauren de Azevedo Steinhoefel* - Desenvolvedor - [GitHub](https://github.com/LaurenAzevedo) *teu git
+*Gabriel Lucas Garcia* - Desenvolvedor - [GitHub](https://github.com/ZiroGl) 
 
-## 📂 LinkedIn 
 
-*LinkedIn* - Perfil - (www.linkedin.com/in/lauren-de-azevedo-steinhoefel-67a398304). *teu linkedIn
