@@ -74,7 +74,9 @@ Na tela principal, o usuário insere os seguintes dados nome do veiculo, número
 
 <img src="https://github.com/user-attachments/assets/d99294f2-3745-4831-ba94-971bcec9b2c3" width="260" height="500"/>
 
+# 📲 APK do APP 
 
+<a href="https://github.com/ZiroGl/AppFuel/blob/main/AppFuel.apk"> Download APK </a>
 
 # 📄 Licença
 
